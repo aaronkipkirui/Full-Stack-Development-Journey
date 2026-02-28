@@ -4,11 +4,19 @@
 } */
 /* reference site: css-tricks.com*/
 /* reference for colors: paletton.com */
+
+/* selectors
+what selectors win out in a cascade depends on: 
+1. importance (author > user > browser)
+2. specificity (id > class > element)
+3. source order (last one wins)
+*/
+
 body {
     background-image: url("/images/pavel-abramiankou-yzh7B-9sOhc-unsplash.jpg");
     background-size: cover;
 }
-h2 {
+h2,p {
     color: red;
     text-align: center;
     border: 5px solid rgba(255, 176, 170, 0.1);
@@ -16,9 +24,17 @@ h2 {
 }
 
 li {
+    list-style: none;
     display: inline-block;
 }
 
 p {
     color: pink;
+}
+
+.webtext {
+    color: aqua;
+}
+#paragraph {
+    background: rgba(0,0,255, 0.2);
 }
