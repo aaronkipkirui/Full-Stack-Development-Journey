@@ -1,0 +1,24 @@
+/* css syntax */
+/* Selector {
+    property: value;
+} */
+/* reference site: css-tricks.com*/
+/* reference for colors: paletton.com */
+body {
+    background-image: url("/images/pavel-abramiankou-yzh7B-9sOhc-unsplash.jpg");
+    background-size: cover;
+}
+h2 {
+    color: red;
+    text-align: center;
+    border: 5px solid rgba(255, 176, 170, 0.1);
+    cursor: pointer;
+}
+
+li {
+    display: inline-block;
+}
+
+p {
+    color: pink;
+}
