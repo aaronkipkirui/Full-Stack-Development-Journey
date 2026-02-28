@@ -12,9 +12,16 @@ what selectors win out in a cascade depends on:
 3. source order (last one wins)
 */
 
+/* use clear: both; to clear floats */
+
+/* differenece between px, em, rem
+1. em refers to the font-size of the element's parent
+2. rem refers to the font-size of the root element (html)
+3. px is a fixed unit */
+
 body {
-    background-image: url("/images/pavel-abramiankou-yzh7B-9sOhc-unsplash.jpg");
-    background-size: cover;
+        background-image: url("/images/pavel-abramiankou-yzh7B-9sOhc-unsplash.jpg");
+        background-size: cover;
 }
 h2,p {
     color: red;
@@ -29,8 +36,13 @@ li {
 }
 
 p {
-    color: pink;
+    color: rgb(65, 5, 244);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 80%;
+    font-family: "Open Sans", sans-serif;
 }
+
 
 .webtext {
     color: aqua;
