@@ -1,0 +1,5 @@
+Here are some cool reference websites:
+https://flexboxfroggy.com/ #a game to practice flexbox in css
+https://getbootstrap.com/ #for bootstrap css
+https://animate.style/ #for css animations
+https://mailchimp.com/ #for mail list 
