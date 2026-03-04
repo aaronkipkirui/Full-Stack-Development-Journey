@@ -3,3 +3,5 @@ https://flexboxfroggy.com/ #a game to practice flexbox in css
 https://getbootstrap.com/ #for bootstrap css
 https://animate.style/ #for css animations
 https://mailchimp.com/ #for mail list 
+https://codepen.io/ #for ready front-end codes
+https://developer.mozilla.org/en-US/docs/Web/API/Event #Events
