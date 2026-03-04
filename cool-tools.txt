@@ -5,3 +5,5 @@ https://animate.style/ #for css animations
 https://mailchimp.com/ #for mail list 
 https://codepen.io/ #for ready front-end codes
 https://developer.mozilla.org/en-US/docs/Web/API/Event #Events
+https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes #keyboard character keys
+https://caniuse.com/ #
