@@ -14,7 +14,6 @@ document.getElementById("myButton").addEventListener("click", function(){
 // add event listener to the clear button
 document.getElementById("clearButton").addEventListener("click", function(){
     var ul = document.querySelector("ul");
-    var li = document.querySelector("li");
     if (ul.innerHTML !== "") {
         ul.removeChild(ul.lastChild);
     }
