@@ -44,3 +44,5 @@ function moveDirection(direction) {
     }   
     return myMove;
 }
+
+
